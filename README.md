@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**keyadobriyal/keyadobriyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 Hi, I'm Keya Dobriyal  
 
 Welcome to my GitHub! I’m passionate about building **clean and meaningful experiences through thoughtful code and quiet design**.  
