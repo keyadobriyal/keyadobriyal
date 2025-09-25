@@ -10,7 +10,7 @@ I’m a data enthusiast passionate about turning raw data into meaningful insigh
 - 📊 Data Science + Analytics learner  
 - 🎓 Pursuing Bachelor's Degree in **Data Science / Analytics**  
 - 💡 Strong interest in **ML, AI, and Data Storytelling**  
-- 🛠️ Skilled at ** Cleaning, Analyzing, Visualizing complex dataset, Machine Learning, and Problem Solving**  
+- 🛠️ Skilled at **Cleaning, Analyzing, Visualizing Complex Dataset, Machine Learning, and Problem Solving**  
 - 🎨 Also passionate about **Design and Creativity**  
 - 🌱 Currently exploring **Real-World Data Projects** that combine data & creativity and **Open-Source Contributions**  
 
