@@ -33,7 +33,7 @@ Welcome to my GitHub! I’m passionate about building **clean and meaningful exp
 ## 📫 Connect With Me  
 - 🌐 [Portfolio Website](https://keyadobriyal.in)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/keyadobriyal)  
-- 📧 Email: keya.dobriyal@example.com  
+- 📧 Email: keya@keyadobriyal.in  
 
 ---
 
