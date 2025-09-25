@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Keya Dobriyal  
+# I'm Keya Dobriyal  
 ## Transforming data into meaningful experiences with precise analysis and thoughtful visualization.
 Welcome to my GitHub! I’m passionate about building **clean and meaningful experiences through thoughtful code and quiet design**.  
 
