@@ -25,6 +25,11 @@ I’m a data enthusiast passionate about turning raw data into meaningful insigh
 
 ---
 
+## ✍️ Articles published on medium.com
+- https://medium.com/@keyadobriyal/detection-and-analysis-of-malware-using-machine-learning-building-smarter-cyber-defense-systems-3c8583c5ccf9
+
+---
+
 ## 📫 Connect With Me  
 - 🌐 [Portfolio Website](https://keyadobriyal.in)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/keyadobriyal)  
