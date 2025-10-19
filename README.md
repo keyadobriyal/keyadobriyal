@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # I'm Keya Dobriyal 👩‍💻
-## 👉 Transforming data into meaningful experiences with precise analysis and thoughtful visualization.
+## 👉 Transforming data into meaningful experiences with precise analysis, prediction and thoughtful visualization.
 I’m a data enthusiast passionate about turning raw data into meaningful insights. I enjoy exploring datasets, applying machine learning, and building visualizations that make data accessible.  I’m passionate about building **clean and meaningful experiences through thoughtful code and quiet design**.  
 
 ---
