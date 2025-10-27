@@ -24,7 +24,10 @@ I’m a data enthusiast passionate about turning raw data into meaningful insigh
 - **Other Tools:** Git, GitHub, Excel, Jupyter Notebook  
 
 ---
+## Certification and Skill Development
+- IBM Data Science Professional Certificate (in progress completed 8/12 modules)
 
+---
 ## ✍️ Articles published on medium.com
 Detection and Analysis of Malware using Machine Learning
 - https://medium.com/@keyadobriyal/detection-and-analysis-of-malware-using-machine-learning-building-smarter-cyber-defense-systems-3c8583c5ccf9
@@ -32,6 +35,8 @@ Detection and Analysis of Malware using Machine Learning
 Content based Restaurant Recommendation System
 - https://medium.com/@keyadobriyal/content-based-restaurant-recommendation-system-5ace2ca73fdd
 
+Tutorial on Data Visualization using Python
+- https://medium.com/@keyadobriyal/tutorial-on-data-visualization-using-python-0ff1e7180d7c
 ---
 
 ## 📫 Connect With Me  
