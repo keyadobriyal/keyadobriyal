@@ -37,6 +37,9 @@ Content based Restaurant Recommendation System
 
 Tutorial on Data Visualization using Python
 - https://medium.com/@keyadobriyal/tutorial-on-data-visualization-using-python-0ff1e7180d7c
+
+Tutorial on Data Visualization using Python - Part 2
+- https://medium.com/@keyadobriyal/data-visualization-using-python-part-2-4cb60e2e697d
 ---
 
 ## 📫 Connect With Me  
