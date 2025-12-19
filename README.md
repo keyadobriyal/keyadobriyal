@@ -25,7 +25,8 @@ I’m a data enthusiast passionate about turning raw data into meaningful insigh
 
 ---
 ## Certification and Skill Development
-- IBM Data Science Professional Certificate (in progress completed 8/12 modules)
+- IBM Data Science Professional Certificate
+- IBM Machine Learnning Professional Certificate (In progress)
 
 ---
 ## ✍️ Articles published on medium.com
