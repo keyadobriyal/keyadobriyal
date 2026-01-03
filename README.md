@@ -24,11 +24,11 @@ I’m a data enthusiast passionate about turning raw data into meaningful insigh
 - **Other Tools:** Git, GitHub, Excel, Jupyter Notebook  
 
 ---
-## Certification and Skill Development
+## 🏅 Certification and Skill Development
 - IBM Data Science Professional Certificate
 - IBM Machine Learnning Professional Certificate (In progress)
 
-## Playground Series Competition on Kaggle
+## 📊 Playground Series Competition on Kaggle
 - https://www.kaggle.com/work/competitions
 ---
 ## ✍️ Articles published on medium.com
