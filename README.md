@@ -28,7 +28,7 @@ I’m a data enthusiast passionate about turning raw data into meaningful insigh
 - IBM Data Science Professional Certificate
 - IBM Machine Learnning Professional Certificate (In progress)
 
-## Playground Series C0mpetition on Kaggle
+## Playground Series Competition on Kaggle
 - https://www.kaggle.com/work/competitions
 ---
 ## ✍️ Articles published on medium.com
