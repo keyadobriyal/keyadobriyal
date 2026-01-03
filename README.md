@@ -29,6 +29,8 @@ I’m a data enthusiast passionate about turning raw data into meaningful insigh
 - IBM Machine Learnning Professional Certificate (In progress)
 
 ## 📊 Playground Series Competition on Kaggle
+- Diabetes Prediction Challenge (December 2025)
+- Exam Score Prediction Challenge (January 2026)
 - https://www.kaggle.com/work/competitions
 ---
 ## ✍️ Articles published on medium.com
