@@ -30,7 +30,7 @@ I’m a data enthusiast passionate about turning raw data into meaningful insigh
 
 ## 📊 Playground Series Competition on Kaggle
 - Diabetes Prediction Challenge (December 2025) - Achieved 2330/4208 Leader Board Rank
-- Exam Score Prediction Challenge (January 2026)
+- Exam Score Prediction Challenge (January 2026) - Currently at 200 / 1500 Leader Board Rank
 - Browse my submissions here: https://www.kaggle.com/work/competitions
 ---
 ## ✍️ Articles published on medium.com
