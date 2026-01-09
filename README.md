@@ -25,8 +25,9 @@ I’m a data enthusiast passionate about turning raw data into meaningful insigh
 
 ---
 ## 🏅 Certification and Skill Development
-- IBM Data Science Professional Certificate
-- IBM Machine Learnning Professional Certificate (In progress)
+- Data Science Professional Certificate: IBM
+- Machine Learnning Professional Certificate: IBM
+- Statistics with Python Specialization: University of Michigan
 
 ## 📊 Playground Series Competition on Kaggle
 - Diabetes Prediction Challenge (December 2025) - Achieved 2330/4208 Leader Board Rank
