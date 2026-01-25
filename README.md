@@ -34,7 +34,7 @@ I’m a data enthusiast passionate about turning raw data into meaningful insigh
 - C Programming for Begineers: Udemy
 - Data Science with Quantum Computing: Udemy
 - Machine Learning A-Z Python and R: Udemy
-- 
+### Certificates 
 - Find Certificates 📜: https://github.com/keyadobriyal/Certifications
 
 ## 📊 Playground Series Competition on Kaggle
