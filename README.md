@@ -37,6 +37,8 @@ I’m a data enthusiast passionate about turning raw data into meaningful insigh
 ### Certificates 
 - Find Certificates 📜: https://github.com/keyadobriyal/Certifications
 
+---
+
 ## 📊 Playground Series Competition on Kaggle
 - Diabetes Prediction Challenge (December 2025) - Achieved 2330/4208 Leader Board Rank
 - Exam Score Prediction Challenge (January 2026) - Currently at 200 / 1500 Leader Board Rank
