@@ -54,37 +54,23 @@ I’m a data enthusiast passionate about turning raw data into meaningful insigh
 - Browse my submissions here: [https://www.kaggle.com/work/competitions]
 ---
 ## ✍️ Articles published on medium.com
-ECOPOOL - A Smart Car Pooling Application
-- [https://medium.com/@keyadobriyal/ecopool-car-pooling-application-8bef7304e489]
-  
-Inferential Statistics using Python
-- [https://medium.com/@keyadobriyal/inferential-statistics-using-python-f8f94f0d1d6e]
-
-Descriptive Statistics using Python
-- [https://medium.com/@keyadobriyal/descriptive-statistics-using-python-405432a07a24]
-
-Data Visualization using Python - Part 3
-- [https://medium.com/@keyadobriyal/data-visualization-using-python-part-3-b86bce79c06d]
-
-Data Visualization using Python - Part 2
-- [https://medium.com/@keyadobriyal/data-visualization-using-python-part-2-4cb60e2e697d]
-
-Data Visualization using Python
-- [https://medium.com/@keyadobriyal/tutorial-on-data-visualization-using-python-0ff1e7180d7c]
-
-Detection and Analysis of Malware using Machine Learning
-- [https://medium.com/@keyadobriyal/detection-and-analysis-of-malware-using-machine-learning-building-smarter-cyber-defense-systems-3c8583c5ccf9]
-
-Content based Restaurant Recommendation System
-- [https://medium.com/@keyadobriyal/content-based-restaurant-recommendation-system-5ace2ca73fdd]
+- [ECOPOOL - A Smart Car Pooling Application](https://medium.com/@keyadobriyal/ecopool-car-pooling-application-8bef7304e489)
+- [Predictive Statistics using Python](https://medium.com/@keyadobriyal/predictive-statistics-using-python-f60fd2ec040b)
+- [Inferential Statistics using Python](https://medium.com/@keyadobriyal/inferential-statistics-using-python-f8f94f0d1d6e)
+- [Descriptive Statistics using Python](https://medium.com/@keyadobriyal/descriptive-statistics-using-python-405432a07a24)
+- [Data Visualization using Python - Part 3](https://medium.com/@keyadobriyal/data-visualization-using-python-part-3-b86bce79c06d)
+- [Data Visualization using Python - Part 2](https://medium.com/@keyadobriyal/data-visualization-using-python-part-2-4cb60e2e697d)
+- [Data Visualization using Python - Part 1](https://medium.com/@keyadobriyal/tutorial-on-data-visualization-using-python-0ff1e7180d7c)
+- [Detection and Analysis of Malware using Machine Learning}(https://medium.com/@keyadobriyal/detection-and-analysis-of-malware-using-machine-learning-building-smarter-cyber-defense-systems-3c8583c5ccf9)
+- [Content based Restaurant Recommendation System](https://medium.com/@keyadobriyal/content-based-restaurant-recommendation-system-5ace2ca73fdd)
 
 ---
 
 ## 📫 Connect With Me  
 - 🌐 [Portfolio Website](https://keyadobriyal.in)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/keyadobriyal)
-- 💼 [LinkedIn](https://www.linkedin.com/in/keyadobriyal)
-- 💼 [LinkedIn](https://www.linkedin.com/in/keyadobriyal)
+- 💼 [Medium](https://medium.com/@keyadobriyal)
+- 💼 [Kaggle](https://www.kaggle.com/keyadobriyal)
 - 📧 Email: keya@keyadobriyal.in  
 
 ---
