@@ -82,7 +82,9 @@ Content based Restaurant Recommendation System
 
 ## 📫 Connect With Me  
 - 🌐 [Portfolio Website](https://keyadobriyal.in)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/keyadobriyal)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/keyadobriyal)
+- 💼 [LinkedIn](https://www.linkedin.com/in/keyadobriyal)
+- 💼 [LinkedIn](https://www.linkedin.com/in/keyadobriyal)
 - 📧 Email: keya@keyadobriyal.in  
 
 ---
