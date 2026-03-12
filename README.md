@@ -39,6 +39,13 @@ I’m a data enthusiast passionate about turning raw data into meaningful insigh
 
 ---
 
+## 📊 Projects Completed as part of Academics
+- Malware Detection using Python
+- Content Based Recommendation System
+- EcoPool: Smart Car Pooling Application
+- Browse my project here: [https://github.com/keyadobriyal/Projects]
+---
+
 ## 📊 Playground Series Competition on Kaggle
 - Heart Disease Prediction Challenge (February 2026) - Currently 440 /4013 on Leader Board
 - Exam Score Prediction Challenge (January 2026) - Achieved 646 / 4317 Leader Board Rank
