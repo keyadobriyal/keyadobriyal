@@ -61,7 +61,7 @@ I’m a data enthusiast passionate about turning raw data into meaningful insigh
 - [Data Visualization using Python - Part 3](https://medium.com/@keyadobriyal/data-visualization-using-python-part-3-b86bce79c06d)
 - [Data Visualization using Python - Part 2](https://medium.com/@keyadobriyal/data-visualization-using-python-part-2-4cb60e2e697d)
 - [Data Visualization using Python - Part 1](https://medium.com/@keyadobriyal/tutorial-on-data-visualization-using-python-0ff1e7180d7c)
-- [Detection and Analysis of Malware using Machine Learning}(https://medium.com/@keyadobriyal/detection-and-analysis-of-malware-using-machine-learning-building-smarter-cyber-defense-systems-3c8583c5ccf9)
+- [Detection and Analysis of Malware using Machine Learning](https://medium.com/@keyadobriyal/detection-and-analysis-of-malware-using-machine-learning-building-smarter-cyber-defense-systems-3c8583c5ccf9)
 - [Content based Restaurant Recommendation System](https://medium.com/@keyadobriyal/content-based-restaurant-recommendation-system-5ace2ca73fdd)
 
 ---
