@@ -25,6 +25,9 @@ I’m a data enthusiast passionate about turning raw data into meaningful insigh
 
 ---
 ## 🏅 Certification and Skill Development
+### AWS Academy
+- AWS Academy Graduate: Cloud Foundations
+
 ### Coursera
 - Data Science Professional Certificate: IBM
 - Data Analytics Professional Certificate: IBM
