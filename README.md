@@ -24,9 +24,7 @@ I’m a data enthusiast passionate about turning raw data into meaningful insigh
 
 🚀 Open to **Data Science, Machine Learning, and AI Internship Opportunities**, where I can apply my skills, contribute to impactful projects, and continue learning. 
 
-🎨 Passionate about **Design and Creativity**  
-
-🌱 Currently exploring **Real-World Data Projects** that combine data & creativity and **Open-Source Contributions**  
+🎨 Passionate about **Design and Creativity**, love to paint to release **STRESS**  
 
 ---
 
