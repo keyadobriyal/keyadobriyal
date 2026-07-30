@@ -73,8 +73,8 @@ Unconventional Tight Sandstone Reservoirs: Krishna-Godavari Basin
 
 ---
 ## ✍️ Articles published on researchsquare.com
-- [Hybrid Explainable AI for Early Sepsis Prediction with Actionable Lead Time and Clinical Utility Validation](Hybrid Explainable AI for Early Sepsis Prediction with Actionable Lead Time and Clinical Utility Validation)
-- 
+- [Hybrid Explainable AI for Early Sepsis Prediction with Actionable Lead Time and Clinical Utility Validation](https://www.researchsquare.com/article/rs-10309995/v1))
+  
 ## ✍️ Articles published on medium.com
 - [ECOPOOL - A Smart Car Pooling Application](https://medium.com/@keyadobriyal/ecopool-car-pooling-application-8bef7304e489)
 - [Predictive Statistics using Python](https://medium.com/@keyadobriyal/predictive-statistics-using-python-f60fd2ec040b)
