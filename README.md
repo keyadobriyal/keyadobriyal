@@ -72,16 +72,21 @@ Unconventional Tight Sandstone Reservoirs: Krishna-Godavari Basin
 
 ---
 
-## 📊 Playground Series Competition on Kaggle
-- Predicting Student Health Risk (July 2026) - Currently 1340 / 3162
-- Predicting Stellar Class (June 2026) - Achieved 1622 / 2816 on Leader Board
-- Predicting F1 Stops (May 2026) - Achieved 780 / 3022 on Leader Board
-- Predicting Irrigation Needs (April 2026) - Achieved 2717 / 4315 on Leader Board
-- Customer Churn Prediction Challenge (March 2026) - Achieved 901 / 4042 on Leader Board 
-- Heart Disease Prediction Challenge (February 2026) - Achieved 151 /4370 on Leader Board
-- Exam Score Prediction Challenge (January 2026) - Achieved 646 / 4317 Leader Board Rank
-- Diabetes Prediction Challenge (December 2025) - Achieved 2330/4208 Leader Board Rank
-- Browse my submissions here: [https://www.kaggle.com/work/competitions]
+## 📊 Kaggle Playground Series — Competition Journey
+
+| 🗓️ Month | 🏆 Competition | 📈 Leaderboard Rank | 👥 Participants | 🎯 Percentile |
+|---|---|---|---|---|
+| Jul 2026 | 🩺 Student Health Risk Prediction | **1340** | 3162 | Top 43% |
+| Jun 2026 | ⭐ Stellar Class Prediction | **1622** | 2816 | Top 58% |
+| May 2026 | 🏎️ F1 Stops Prediction | **780** | 3022 | Top 26% |
+| Apr 2026 | 💧 Irrigation Needs Prediction | **2717** | 4315 | Top 63% |
+| Mar 2026 | 🔄 Customer Churn Prediction | **901** | 4042 | Top 23% |
+| Feb 2026 | ❤️ Heart Disease Prediction | **151** | 4370 | 🏅 Top 4% |
+| Jan 2026 | 📝 Exam Score Prediction | **646** | 4317 | 🏅 Top 15% |
+| Dec 2025 | 🩸 Diabetes Prediction | **2330** | 4208 | Top 55% |
+
+🔗 **View all Kaggle submissions:**  
+[Kaggle Competition Portfolio](https://www.kaggle.com/work/competitions)
 
 ---
 ## ✍️ Articles published on researchsquare.com
