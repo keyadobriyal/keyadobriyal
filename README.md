@@ -70,15 +70,6 @@ Unconventional Tight Sandstone Reservoirs: Krishna-Godavari Basin
 - EcoPool: Smart Car Pooling Application
 - Browse my project here: [https://github.com/keyadobriyal/Projects]
 
----
-
-### 🌟 Best Kaggle Performances
-🏅 Heart Disease Prediction — Top 4% (151/4370)  
-🏅 Exam Score Prediction — Top 15% (646/4317)  
-🏅 Customer Churn Prediction — Top 23% (901/4042)
-
----
-
 ## 📊 Kaggle Playground Series — Competition Journey
 
 I actively participate in Kaggle Playground Series competitions, applying machine learning techniques, feature engineering, model optimization, and explainable AI approaches across diverse real-world datasets.
@@ -109,6 +100,13 @@ Participated in healthcare risk prediction modeling and achieved a rank of **233
 
 🔗 **View all Kaggle submissions:**  
 [Kaggle Competition Portfolio](https://www.kaggle.com/work/competitions)
+
+---
+
+### 🌟 Best Kaggle Performances
+🏅 Heart Disease Prediction — Top 4% (151/4370)  
+🏅 Exam Score Prediction — Top 15% (646/4317)  
+🏅 Customer Churn Prediction — Top 23% (901/4042)
 
 ---
 ## ✍️ Articles published on researchsquare.com
