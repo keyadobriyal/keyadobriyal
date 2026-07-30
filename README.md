@@ -7,7 +7,7 @@ I’m a data enthusiast passionate about turning raw data into meaningful insigh
 ---
 
 ## 🚀 About Me  
-- 📊 Data Science + Analytics learner  
+- 📊 Computer Science Student | Machine Learning Explorer | AI Enthusiast  
 - 🎓 Pursuing Bachelor's Degree in **Data Science / Analytics**  from **Amity University - Noida**
 - 💡 Strong interest in **ML, AI, and Data Storytelling**  
 - 🛠️ Skilled at **Cleaning, Analyzing, Visualizing Complex Dataset, Machine Learning, and Problem Solving**  
