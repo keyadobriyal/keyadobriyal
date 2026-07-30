@@ -101,11 +101,11 @@ Unconventional Tight Sandstone Reservoirs: Krishna-Godavari Basin
 ---
 
 ## 📫 Connect With Me  
-- 🌐 [Portfolio Website](https://keyadobriyal.in)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/keyadobriyal)
-- 💼 [Medium](https://medium.com/@keyadobriyal)
-- 💼 [Kaggle](https://www.kaggle.com/keyadobriyal)
-- 📧 Email: keya@keyadobriyal.in  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome)](https://keyadobriyal.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/keya-dobriyal-034100383/)
+[![Medium](https://img.shields.io/badge/Medium-Blog-black?style=for-the-badge&logo=medium)](https://medium.com/@keyadobriyal)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/keyadobriyal)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:keya@keyadobriyal.in)
 
 ---
 
