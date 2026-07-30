@@ -21,7 +21,7 @@ I’m a data enthusiast passionate about turning raw data into meaningful insigh
 **Organization:** Oil & Natural Gas Corporation  
 **Role:** Data Science Intern  
 **Topic:** Well Log Data Analysis and Lithology Classification using Machine Learning and Deep Learning of
-Unconventional Tight Sandstone Reservoirs: Krishna-Godavari Basin
+Unconventional Tight Sandstone Reservoirs: Krishna-Godavari Basin  
 **Duration:** 07 May 2026 – 30 June 2026
 
 ---
