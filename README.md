@@ -6,13 +6,27 @@ I’m a data enthusiast passionate about turning raw data into meaningful insigh
 
 ---
 
-## 🚀 About Me  
-- 📊 Computer Science Student | Machine Learning Explorer | AI Enthusiast  
-- 🎓 Pursuing Bachelor's Degree in **Data Science / Analytics**  from **Amity University - Noida**
-- 💡 Strong interest in **ML, AI, and Data Storytelling**  
-- 🛠️ Skilled at **Cleaning, Analyzing, Visualizing Complex Dataset, Machine Learning, and Problem Solving**  
-- 🎨 Also passionate about **Design and Creativity**  
-- 🌱 Currently exploring **Real-World Data Projects** that combine data & creativity and **Open-Source Contributions**  
+## 👩‍💻 About Me
+
+📊 **Aspiring Data Scientist | AI & Machine Learning Enthusiast**
+
+🎓 Pursuing a **Bachelor's Degree in Data Science & Analytics** at **Amity University, Noida**
+
+💡 Passionate about leveraging **Artificial Intelligence, Machine Learning, Data Analytics, and Data Storytelling** to solve real-world problems and transform data into actionable insights.
+
+🛠️ Skilled in **Python, SQL, Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Machine Learning, Deep Learning, Statistical Analysis, and Problem Solving.**
+
+🏆 **Active Kaggle Competitor**, having participated in the **last 8 Kaggle Playground competitions**, continuously enhancing my practical machine learning and predictive modeling skills.
+
+✍️ **Technical Writer on Medium**, sharing insights, tutorials, and project experiences in **Data Science, Machine Learning, and AI** to contribute to the learning community.
+
+🌱 Currently expanding my expertise in **Deep Learning, Explainable AI (XAI), Predictive Analytics, Business Intelligence, and Generative AI.**
+
+🚀 Open to **Data Science, Machine Learning, and AI Internship Opportunities**, where I can apply my skills, contribute to impactful projects, and continue learning. 
+
+🎨 Passionate about **Design and Creativity**  
+
+🌱 Currently exploring **Real-World Data Projects** that combine data & creativity and **Open-Source Contributions**  
 
 ---
 
