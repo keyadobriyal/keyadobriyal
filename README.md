@@ -16,6 +16,16 @@ I’m a data enthusiast passionate about turning raw data into meaningful insigh
 
 ---
 
+## 💼 Internship
+
+**Organization:** Oil & Natural Gas Corporation  
+**Role:** Data Science Intern (Petrophysics) 
+**Topic:** Well Log Data Analysis and Lithology Classification using Machine Learning and Deep Learning of
+Unconventional Tight Sandstone Reservoirs: Krishna-Godavari Basin
+**Duration:** 07 May 2026 – 30 June 2026
+
+---
+
 ## 🛠️ Skills & Tools  
 - **Languages:** Python, R, SQL, JavaScript  
 - **Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow  
@@ -47,15 +57,24 @@ I’m a data enthusiast passionate about turning raw data into meaningful insigh
 - Content Based Recommendation System
 - EcoPool: Smart Car Pooling Application
 - Browse my project here: [https://github.com/keyadobriyal/Projects]
+
 ---
 
 ## 📊 Playground Series Competition on Kaggle
-- Customer Churn Prediction Challenge (March 2026) - Currently 612 / 1630 
+- Predicting Student Health Risk (July 2026) - Currently 1340 / 3162
+- Predicting Stellar Class (June 2026) - Achieved 1622 / 2816 on Leader Board
+- Predicting F1 Stops (May 2026) - Achieved 780 / 3022 on Leader Board
+- Predicting Irrigation Needs (April 2026) - Achieved 2717 / 4315 on Leader Board
+- Customer Churn Prediction Challenge (March 2026) - Achieved 901 / 4042 on Leader Board 
 - Heart Disease Prediction Challenge (February 2026) - Achieved 151 /4370 on Leader Board
 - Exam Score Prediction Challenge (January 2026) - Achieved 646 / 4317 Leader Board Rank
 - Diabetes Prediction Challenge (December 2025) - Achieved 2330/4208 Leader Board Rank
 - Browse my submissions here: [https://www.kaggle.com/work/competitions]
+
 ---
+## ✍️ Articles published on researchsquare.com
+- [Hybrid Explainable AI for Early Sepsis Prediction with Actionable Lead Time and Clinical Utility Validation](Hybrid Explainable AI for Early Sepsis Prediction with Actionable Lead Time and Clinical Utility Validation)
+- 
 ## ✍️ Articles published on medium.com
 - [ECOPOOL - A Smart Car Pooling Application](https://medium.com/@keyadobriyal/ecopool-car-pooling-application-8bef7304e489)
 - [Predictive Statistics using Python](https://medium.com/@keyadobriyal/predictive-statistics-using-python-f60fd2ec040b)
