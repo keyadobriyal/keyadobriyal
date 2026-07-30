@@ -70,6 +70,8 @@ Unconventional Tight Sandstone Reservoirs: Krishna-Godavari Basin
 - EcoPool: Smart Car Pooling Application
 - Browse my project here: [https://github.com/keyadobriyal/Projects]
 
+---
+
 ## 📊 Kaggle Playground Series — Competition Journey
 
 I actively participate in Kaggle Playground Series competitions, applying machine learning techniques, feature engineering, model optimization, and explainable AI approaches across diverse real-world datasets.
