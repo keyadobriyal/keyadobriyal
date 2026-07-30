@@ -72,18 +72,40 @@ Unconventional Tight Sandstone Reservoirs: Krishna-Godavari Basin
 
 ---
 
+### 🌟 Best Kaggle Performances
+🏅 Heart Disease Prediction — Top 4% (151/4370)  
+🏅 Exam Score Prediction — Top 15% (646/4317)  
+🏅 Customer Churn Prediction — Top 23% (901/4042)
+
+---
+
 ## 📊 Kaggle Playground Series — Competition Journey
 
-| 🗓️ Month | 🏆 Competition | 📈 Leaderboard Rank | 👥 Participants | 🎯 Percentile |
-|---|---|---|---|---|
-| Jul 2026 | 🩺 Student Health Risk Prediction | **1340** | 3162 | Top 43% |
-| Jun 2026 | ⭐ Stellar Class Prediction | **1622** | 2816 | Top 58% |
-| May 2026 | 🏎️ F1 Stops Prediction | **780** | 3022 | Top 26% |
-| Apr 2026 | 💧 Irrigation Needs Prediction | **2717** | 4315 | Top 63% |
-| Mar 2026 | 🔄 Customer Churn Prediction | **901** | 4042 | Top 23% |
-| Feb 2026 | ❤️ Heart Disease Prediction | **151** | 4370 | 🏅 Top 4% |
-| Jan 2026 | 📝 Exam Score Prediction | **646** | 4317 | 🏅 Top 15% |
-| Dec 2025 | 🩸 Diabetes Prediction | **2330** | 4208 | Top 55% |
+I actively participate in Kaggle Playground Series competitions, applying machine learning techniques, feature engineering, model optimization, and explainable AI approaches across diverse real-world datasets.
+
+🏥 **Student Health Risk Prediction (July 2026)**  
+Achieved a leaderboard rank of **1340 out of 3162 participants**, placing in the **top 43%** of the competition.
+
+⭐ **Stellar Class Prediction (June 2026)**  
+Secured a rank of **1622 out of 2816 participants**, achieving a position within the **top 58%** of the leaderboard.
+
+🏎️ **F1 Stops Prediction (May 2026)**  
+Achieved a strong leaderboard position of **780 out of 3022 participants**, ranking in the **top 26%**.
+
+💧 **Irrigation Needs Prediction (April 2026)**  
+Participated in agricultural AI modeling and achieved a rank of **2717 out of 4315 participants** (**top 63%**).
+
+🔄 **Customer Churn Prediction Challenge (March 2026)**  
+Developed predictive models for customer retention analytics, achieving a rank of **901 out of 4042 participants** (**top 23%**).
+
+❤️ **Heart Disease Prediction Challenge (February 2026)**  
+Achieved one of my strongest performances with a leaderboard rank of **151 out of 4370 participants**, placing in the **top 4% globally**.
+
+📝 **Exam Score Prediction Challenge (January 2026)**  
+Achieved a rank of **646 out of 4317 participants**, securing a position within the **top 15%**.
+
+🩸 **Diabetes Prediction Challenge (December 2025)**  
+Participated in healthcare risk prediction modeling and achieved a rank of **2330 out of 4208 participants** (**top 55%**).
 
 🔗 **View all Kaggle submissions:**  
 [Kaggle Competition Portfolio](https://www.kaggle.com/work/competitions)
